@@ -1,5 +1,11 @@
 # ssm-env 
 
+Welcome to ssm-env !
+
+This is not an official Reach-Now product.
+
+---
+
 Substitute SSM parameters in env files.
 
 If you have an env file [`example.env.tmpl`](./example.env.tmpl) with the following content:
